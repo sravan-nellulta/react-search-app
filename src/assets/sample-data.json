@@ -1,0 +1,129 @@
+{
+    "companyInfo": {
+        "companyEst": "2008-12-07T08:29:37.790Z",
+        "companyMotto": "bleeding-edge unleash channels",
+        "companyName": "Thomas, Hahn and Schultz"
+    },
+    "employees": [
+        {
+            "age": 24,
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/evanshajed/128.jpg",
+            "bio": "Ab ipsa maxime ut perspiciatis. Et ut rerum natus dolore dolores. Laboriosam earum in est odio voluptatem repellendus est.",
+            "dateJoined": "2010-01-24T19:20:03.508Z",
+            "firstName": "Mikayla",
+            "id": "6d8ee612-0b4a-4f7d-add5-80448c195270",
+            "jobTitle": "Future Communications Developer",
+            "lastName": "Weber"
+        },
+        {
+            "age": 19,
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bartjo/128.jpg",
+            "bio": "Non quidem optio non reiciendis et quidem laudantium. Quo delectus fugiat quidem. Dicta autem nobis ut aliquid consequatur veniam quis occaecati. Consequatur doloribus expedita. Nemo qui tempora voluptas sed sit.",
+            "dateJoined": "2018-02-25T13:37:31.433Z",
+            "firstName": "Phoebe",
+            "id": "3a6b6bef-f425-4330-b5e4-3d16692f4ab0",
+            "jobTitle": "Internal Creative Designer",
+            "lastName": "Donnelly"
+        },
+        {
+            "age": 21,
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/brunodesign1206/128.jpg",
+            "bio": "Quis est est dignissimos ullam quia fugiat in. Aliquam veniam et tempora molestias. Explicabo id ut voluptatum quisquam. Harum nostrum officiis vero accusamus est ex ut.",
+            "dateJoined": "2017-12-17T17:10:23.188Z",
+            "firstName": "Joshua",
+            "id": "5723c787-f23c-4638-a140-be75fbdfde5b",
+            "jobTitle": "Chief Intranet Specialist",
+            "lastName": "Cronin"
+        },
+        {
+            "age": 47,
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/elbuscainfo/128.jpg",
+            "bio": "Pariatur est porro nemo consequatur deserunt mollitia. Explicabo officia temporibus eaque commodi dolorem. Doloremque enim magnam non id illum unde aut aperiam. Fugit consequuntur vel voluptates architecto dolorum beatae nulla et iste. Quae dignissimos enim velit voluptatem. Veniam quos error aut debitis.",
+            "dateJoined": "2017-02-04T14:37:39.189Z",
+            "firstName": "Gabriel",
+            "id": "c3bb6b8a-f26b-4efa-84f7-395dd5c3808a",
+            "jobTitle": "National Group Liaison",
+            "lastName": "Feil"
+        },
+        {
+            "age": 47,
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/lawlbwoy/128.jpg",
+            "bio": "Qui officiis perspiciatis quis minima adipisci nulla. Est voluptas et id consequatur iure ut nemo. Totam eaque itaque molestiae maxime dicta eligendi dolorum. Consequatur ut voluptatum non non. Magni eveniet eligendi dolore vero voluptates.",
+            "dateJoined": "2014-07-02T08:27:56.785Z",
+            "firstName": "Samuel",
+            "id": "96f54916-678a-4545-96f9-0e545476d722",
+            "jobTitle": "Lead Research Administrator",
+            "lastName": "Kiehn"
+        },
+        {
+            "age": 59,
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/anatolinicolae/128.jpg",
+            "bio": "Quo porro necessitatibus natus commodi asperiores ut sunt facere corporis. Velit velit dolorum. Consequatur vero ipsam quo qui quia explicabo ut vel. Facilis aut voluptatem iusto nobis dolores ut dolore. Quia officia impedit error quasi officia.",
+            "dateJoined": "2014-10-15T11:27:10.722Z",
+            "firstName": "Harry",
+            "id": "55a57e8b-7825-4f0e-a9e8-a658aa801e94",
+            "jobTitle": "Senior Accountability Representative",
+            "lastName": "Boyle"
+        },
+        {
+            "age": 31,
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/h1brd/128.jpg",
+            "bio": "Eum veniam provident a. Reprehenderit cumque est dolor et aperiam hic nesciunt consequatur earum. Temporibus ut sit tempora quia aut nulla sint. Aspernatur in at accusantium odit sed nemo explicabo aut repellat. Saepe dolore numquam quis reprehenderit aut sed quis ipsum rerum. Reiciendis necessitatibus magnam.",
+            "dateJoined": "2016-10-01T01:18:33.180Z",
+            "firstName": "Alyssa",
+            "id": "9fd80fe1-31c5-4053-8cbc-9a9c4e1f0898",
+            "jobTitle": "Human Web Strategist",
+            "lastName": "Jerde"
+        },
+        {
+            "age": 41,
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/suribbles/128.jpg",
+            "bio": "Sit aliquam minus exercitationem quo. Suscipit doloribus illo nihil qui sequi eos nesciunt. Aut ex accusamus enim aut possimus nihil ipsum voluptates error. Quae quia ut eos non sed.",
+            "dateJoined": "2014-03-02T16:47:24.694Z",
+            "firstName": "Amelia",
+            "id": "1456d43f-aa51-4599-a90f-6222067f8db8",
+            "jobTitle": "Human Metrics Orchestrator",
+            "lastName": "Botsford"
+        },
+        {
+            "age": 39,
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/danillos/128.jpg",
+            "bio": "Earum sapiente nihil sunt et sequi excepturi. Voluptatem illo distinctio occaecati. Sequi iure ab odit aut.",
+            "dateJoined": "2018-03-28T04:46:38.934Z",
+            "firstName": "Mason",
+            "id": "ae7f560b-8944-449f-bbea-88292c27875e",
+            "jobTitle": "Forward Markets Assistant",
+            "lastName": "Thomson"
+        },
+        {
+            "age": 20,
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ilya_pestov/128.jpg",
+            "bio": "Nulla est facere explicabo quis. Adipisci impedit quia provident quasi consequatur nemo nesciunt iusto quis. Eius illo eligendi laboriosam.",
+            "dateJoined": "2010-12-25T17:01:15.321Z",
+            "firstName": "Jayden",
+            "id": "f7cd69de-9157-4250-aceb-42ac9a6d9888",
+            "jobTitle": "Corporate Mobility Assistant",
+            "lastName": "Rolfson"
+        },
+        {
+            "age": 20,
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/finchjke/128.jpg",
+            "bio": "Dolor facilis voluptatem odio nisi ut illo. Eos dolores saepe blanditiis aut. Quaerat assumenda culpa voluptas quo voluptas ea in accusantium.",
+            "dateJoined": "2017-10-02T00:26:48.891Z",
+            "firstName": "Alana",
+            "id": "194acb5e-4a98-45ee-a6f3-5b45ae4bc7b5",
+            "jobTitle": "Investor Factors Developer",
+            "lastName": "Champlin"
+        },
+        {
+            "age": 51,
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ryhanhassan/128.jpg",
+            "bio": "Nulla deserunt maiores. Reprehenderit tempora nihil blanditiis et aut enim non. Aut provident deserunt sed voluptas necessitatibus quidem. Optio optio temporibus ex reprehenderit. Fuga illum quo sit tempore in ipsum.",
+            "dateJoined": "2016-03-18T19:31:54.022Z",
+            "firstName": "Joshua",
+            "id": "6ac9a0ff-f95f-4864-b710-714745431208",
+            "jobTitle": "Human Creative Engineer",
+            "lastName": "White"
+        }
+    ]
+}
