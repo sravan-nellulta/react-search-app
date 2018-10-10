@@ -50,7 +50,7 @@
   margin: 5px;
   height: 300px;
 }
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1224px) {
   .employee-data {
     width: 100%;
     height: unset;
@@ -60,10 +60,6 @@
   background-color: #EEE;
   cursor: pointer
 }
-
-/* .bio {
-  width:340px
-} */
 
 .close {
   position: absolute;
